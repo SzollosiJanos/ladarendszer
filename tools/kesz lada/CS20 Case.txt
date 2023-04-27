@@ -1,0 +1,43 @@
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,0,"Wildfire",917,100,4);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,26,"Commemoration",919,100,4);
+
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,20,"Hydra",910,100,3);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,29,"Death by Puppy",913,100,3);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,24,"Nostalgia",911,100,3);
+
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,47,"Agent",915,100,2);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,23,"Plastique",916,100,2);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,9,"Inferno",907,100,2);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,11,"Buddy",906,100,2);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,18,"Aztec",902,100,2);
+
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,7,"Sacrifice",918,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,26,"Decommissioned",904,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,8,"Elite 1.6",903,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,21,"Classic Crate",908,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,16,"Popdog",909,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,12,"Flash Out",905,100,1);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,31,"Assault",914,100,1);
+
+
+
+
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"",0,800,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Night Stripe",735,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Scorched",175,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Urban Masked",143,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Boreal Forest",77,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Safari Mesh",72,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Slaughter",59,250,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Case Hardened",44,250,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Stained",43,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Blue Steel",42,1000,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Fade",38,300,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Crimson Web",12,250,6);
+INSERT INTO `lada_ladaskin`(`ladaid`,`fegyverid`,`skin_name`,`skin_id`,`chance`,`rare`) VALUES (17,48,"Forest DDPAT",5,1000,6);
+
+
+
+
+
+
