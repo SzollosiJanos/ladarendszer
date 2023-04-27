@@ -1,6 +1,6 @@
 /*
  *	
- *  Case System plugin made by:         MegoltElek    https://forums.alliedmods.net/member.php?u=306454
+ * 	Case System plugin made by:         MegoltElek    https://forums.alliedmods.net/member.php?u=306454
  *	Weapons and gloves plugin made by:  kgns          https://forums.alliedmods.net/member.php?u=279636
  *	Rock paper scissors plugin made by: Totenfluch    https://forums.alliedmods.net/member.php?u=166543
  *
