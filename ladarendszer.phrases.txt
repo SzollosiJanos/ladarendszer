@@ -1,0 +1,939 @@
+"Phrases"
+{
+	"Server Name"
+	{
+		"hu" "{darkred}『{default}ElekCase{darkred}』{default} "
+		"en" "{darkred}『{default}ElekCase{darkred}』{default} "
+	}
+	
+	"error no skin"
+	{
+		"hu" "Hiba! Nincs egyetlen skine sem a játékosnak."
+		"en" "Error! Player doesn't have any skins."
+	}
+	
+	
+	"error no skin2"
+	{
+		"hu" "Hiba! Nincs egyetlen skined sem."
+		"en" "Error! You don't have any skins."
+	}
+	
+	"skin sell"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Sikeresen eladtad a skint {darkred}{1} {default}{2}ért."
+		"en" "You succesfully sold the skin for {darkred}{1} {default}{2}(s)."
+	}
+	
+	"case send"
+	{
+		"#format" "{1:s}"
+		"hu" "Láda sikeresen átküldve neki: {darkred}{1}"
+		"en" "You succesfully sent a case to: {darkred}{1}"
+	}
+	
+	"case got"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Kaptál egy ládát tőle: {green}{1}, {darkred}{2}"
+		"en" "You got sent a case by: {green}{1}, {darkred}{2}"
+	}
+	
+	"key send"
+	{
+		"#format" "{1:s}"
+		"hu" "Ládakulcs sikeresen átküldve neki: {darkred}{1}"
+		"en" "You succesfully sent a key to: {darkred}{1}"
+	}
+	
+	"key got"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Kaptál egy ládakulcsot tőle: {green}{1}, {darkred}{2}"
+		"en" "You got sent a key by: {green}{1}, {darkred}{2}"
+	}
+	
+	"skin send"
+	{
+		"#format" "{1:s}"
+		"hu" "Skin sikeresen átküldve neki: {darkred}{1}"
+		"en" "You succesfully sent a skin to: {darkred}{1}"
+	}
+	
+	"skin got"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s}"
+		"hu" "Kaptál egy skint tőle: {green}{1}, {2}{3} | {4}"
+		"en" "You got sent a skin by: {green}{1}, {2}{3} | {4}"
+	}
+	
+	"casino coin"
+	{
+		"#format" "{1:s}"
+		"hu" "Mennyi {1}ért szeretnél játszani? {darkred}Írd le a chat-re:"
+		"en" "How much {1}(s) would you like to bet? {darkred}Type value:"
+	}
+	
+	"market coin"
+	{
+		"#format" "{1:s}"
+		"hu" "Mennyi {1}ért szeretnéd eladni? {darkred}Írd le a chat-re:"
+		"en" "How much {1}(s) would you like to sell it for? {darkred}Type value:"
+	}
+	
+	"market bought"
+	{
+		"#format" "{1:s}"
+		"hu" "{green}{1} {default}A következő skint vette a piacon: "
+		"en" "{green}{1} {default}Bought a skin on the market: "
+	}
+	
+	"market sell"
+	{
+		"#format" "{1:s}"
+		"hu" "{green}{1} {default}Kirakott egy skint a piacra: "
+		"en" "{green}{1} {default}Put a skin to the market: "
+	}
+	
+	"market sell cancelled"
+	{
+		"hu" "Sikeresen levetted a skint a piacról!"
+		"en" "You succesfully took off your skin from the market!"
+	}
+	
+	"market sell success"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Sikeresen kiraktad a skint a piacra {darkred}{1} {2}ért"
+		"en" "You succesfully put your skin to the market for {darkred}{1} {2}(s)"
+	}
+	
+	"market buy success"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Sikeresen megvetted a skint {darkred}{1} {2}ért"
+		"en" "You succesfully bought the skin for {darkred}{1} {2}(s)"
+	}
+	
+	"market already bought"
+	{
+		"hu" "{default} Hiba! Valaki már megvette ezt a skint előtted!"
+		"en" "{default} Error! Someone has already bought this skin!"
+	}
+	
+	"unique case"
+	{
+		"hu" "Gratulálok, nyitottál egy különleges ládát!"
+		"en" "Congrats! You have opened a unique case!"
+	}
+	
+	"no lotto this week"
+	{
+		"hu" "{green}[Lottó] {default}Senki sem vett szelvényt... Nincs nyertes a héten."
+		"en" "{green}[Lottery] {default}Nobody has bought any tickets... No winner this week."
+	}
+	
+	"lotto winner"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "{green}[Lottó] {darkred}{1} {default}nyert a lottón {2}.00 {3}t!!!"
+		"en" "{green}[Lottery] {darkred}{1} {default}won {2}.00 {3}(s) on the lottery!!!"
+	}
+	
+	"already checked skin"
+	{
+		"hu" "Hiba!! Ezt a skint megnézted már egyszer!!"
+		"en" "Error!! You have already inspected this skin!!"
+	}
+	
+	"casino win"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "{default}Gratulálok, {green}NYERTÉL!! {green}{1} {default}{2}t."
+		"en" "{default}Congrats, You WON!! {green}{1} {2}(s)."
+	}
+
+	"casino lose"
+	{
+    "#format" "{1:s},{2:s}"
+    "hu" "{default}Sajnálom, {darkred}VESZTETTÉL!! {green}{1} {default}{2}t."
+    "en" "{default}Sorry, YOU LOST!! {green}{1} {2}(s)."
+	}
+	
+	"vip free cases"
+	{
+		"#format" "{1:s}"
+		"hu" "Mivel VIP jogokkal rendelkezel, így kaptál 1 extra {darkred}{1} {default}ládát és ládakulcsot. {green}Köszönjük a támogatást :)"
+		"en" "As a VIP, You got 1 extra {darkred}{1} {default}case and key. {green}Thank you for the support :)"
+	}
+	
+	"free credit ad"
+	{
+		"hu" "Gyere vissza holnap is, mert a rendszeres begyűjtést jutalmazzuk minden 7. nap :)"
+		"en" "Comeback tomorrow, because we reward regular collecting every 7. day :)"
+	}
+	
+	"error cant open cases"
+	{
+		"hu" "Hiba!! Nem nyithatod meg a menüt amíg ládát nyitsz!!"
+		"en" "Error!! You cannot open the menu while opening a case!!"
+	}
+	
+	
+	"error only 1 quest"
+	{
+		"hu" "Hiba! Óránként csak egy küldetés elérhető!!!"
+		"en" "Error! You can only claim 1 quest every hour!!!"
+	}
+	
+	"error only 1 quest reset"
+	{
+		"hu" "Hiba! Óránként csak egyszer cserélhetsz!!!"
+		"en" "Error! You can only reset once every hour!!!"
+	}
+	
+	
+	"error not a number"
+	{
+		"hu" "Hiba, ez nem szám!!"
+		"en" "Error, not a number!!"
+	}
+	
+	"error number must be bigger"
+	{
+		"hu" "A számnak nagyobbnak kell lennie, mint 0!!"
+		"en" "Number must be higher than zero!!"
+	}
+	
+	"case opened"
+	{
+		"#format" "{1:s}"
+		"hu" "{green}{1} {default}Kinyitott egy ládát és ezt találta: "
+		"en" "{green}{1} {default}Opened a case and found: "
+	}
+	
+	"key bought"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "Sikeresen megvásároltad: {green}{1} {darkred}ládakulcs: {green}{2} {green}{3}"
+		"en" "You succesfully bought: {green}{1} {darkred}key: for {green}{2} {green}{3}"
+	}
+	
+	"case bought"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "Sikeresen megvásároltad: {green}{1} {darkred}láda: {green}{2} {green}{3}"
+		"en" "You succesfully bought: {green}{1} {darkred}case: for {green}{2} {green}{3}"
+	}
+	
+	
+	"balance"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"hu" "{green}{1} {darkred}{2} {default} {3}-al rendelkezik. {green}Skineinek értéke: {darkred}{4} {default}{5}."
+		"en" "{green}{1} has {darkred}{2} {default} {3}(s). {green}Inventory price: {darkred}{4} {default}{5}(s)."
+	}
+	
+	"gift credit"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "Átadtál {darkred}{1} {green}{2}t {darkred}{3} {default}játékosnak."
+		"en" "You sent {darkred}{1} {green}{2}(s) to {darkred}{3} {default}."
+	}
+	
+	"got credit"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "Kaptál {darkred}{1} {default}{2}t {green}{3} {default}játékostól."
+		"en" "You got {darkred}{1} {default}{2}(s) from {green}{3} {default}."
+	}
+	
+	"got credit admin"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "{green}{1} {default}kapott {green}{2} {default}{3}t egy admintól."
+		"en" "{green}{1} {default}got {green}{2} {default}{3} from an admin."
+	}
+	
+	"skins sold"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Eladtad a skineid. Kaptál {1} {2}t."
+		"en" "You sold your skins. You got: {1} {2}(s)."
+	}
+	
+	"Animation turned off"
+	{
+		"hu" "Sikeresen kikapcsoltad az animációt."
+		"en" "You succesfully turned off the animation."
+	}
+	
+	"Animation turned on"
+	{
+		"hu" "Sikeresen bekapcsoltad az animációt."
+		"en" "You succesfully turned on the animation."
+	}
+	
+	"Animation ad"
+	{
+		"hu" "Ha nem szeretnéd látni az animácóit, a {darkred}!openanim parancsal kikapcsolhatod!"
+		"en" "If you don't want to see the animation, turn it off with this command: {darkred}!openanim"
+	}
+	
+	"open cooldown"
+	{
+		"#format" "{1:.0f}"
+		"hu" "{green}{1} {default}másodpercenként csak 1 ládát nyithatsz!!!"
+		"en" "{default}You can only open 1 case every {green}{1} {default}seconds!!!"
+	}
+	
+	"only 1 case at a time"
+	{
+		"hu" "Egyszerre csak 1 ládát nyithatsz!!!"
+		"en" "You can only open 1 case at a time!!!"
+	}
+	
+	"Not enough player for case drop"
+	{
+		"hu" "Nincs elég játékos a szerveren, nincs láda."
+		"en" "There's not enough players on the server for case drop."
+	}
+	
+	"Not enough coin"
+	{
+		"#format" "{1:s}"
+		"hu" "Nincs elegendő {1}-od"
+		"en" "Not enough {1}(s)"
+	}
+	
+	"admin case"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "{green}{1} {default}kapott egy {darkred}{2} {default}ládát egy admintól."
+		"en" "{green}{1} {default}got {darkred}{2} {default}case(s) from an admin."
+	}
+	
+	"quest case"
+	{
+		"#format" "{1:d},{2:s}"
+		"hu" "Gratulálok, kaptál {1} {2} ládát!!!"
+		"en" "Congrats, you got {1} {2} case(s)!!!"
+	}
+	
+	"quest key"
+	{
+		"#format" "{1:d},{2:s}"
+		"hu" "Gratulálok, kaptál {1} {2} ládakulcsot!!!"
+		"en" "Congrats, you got {1} {2} key(s)!!!"
+	}
+	
+	"admin key"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "{green}{1} {default}kapott egy {darkred}{2} {default}ládakulcsot egy admintól."
+		"en" "{green}{1} {default}got {darkred}{2} {default}key from an admin."
+	}
+	
+	"Map end case drop"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "{green}{1} {default}kapott egy {darkred}{2} {default}ládát körvégi dropként."
+		"en" "{green}{1} {default}got {darkred}{2} {default}case(s) as an end round drop."
+	}
+	
+	"kill coin"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Szereztél {1}{darkred} {2}t, {default}mert megöltél valakit."
+		"en" "You earned {1}{darkred} {2}, {default}for killing someone."
+	}
+	
+	"quest coin"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Gratulálok, kaptál {1} {2}t!!!"
+		"en" "Congrats, you earned {1} {2}(s)!!!"
+	}
+	
+	"time coin"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Szereztél {1}{darkred} {2}t {default}a fent töltött időért."
+		"en" "You earned {1}{darkred} {2}(s) {default}for playing."
+	}
+	
+	"nametag coin"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"hu" "Szereztél {1} {darkred}{2}t {default}amiért a nevedben van a [{3}]"
+		"en" "You earned {1} {darkred}{2}(s) {default}for using our nametag [{3}]"
+	}
+	
+	"nametag coin ad"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "Használd a nevedben a [{1}] felíratot, és cserébe extra {darkred}{2}t kapsz a fent töltött időért."
+		"en" "Use [{1}] nametag in your name, and get extra {darkred}{2}(s) for playing."
+	}
+	
+	"coin name"
+	{
+		"hu" "ErackÉrme"
+		"en" "ErackÉrme"
+	}
+	
+	"quest completed"
+	{
+		"hu" "Figyelem! Teljesítetted a küldetést! Gyűjtsd be a jutalmadat a menüből!"
+		"en" "Attention! You completed your QUEST! Claim your rewards in the menu!"
+	}
+	
+	"extra caseandkey"
+	{
+		"#format" "{1:s}"
+		"hu" "Kaptál egy extra {1} ládát és kulcsot az ölésért!"
+		"en" "You got extra {1} case and key for killing!"
+	}
+	"extra key"
+	{
+		"#format" "{1:s}"
+		"hu" "Kaptál egy extra {1} ládakulcsot az ölésért!"
+		"en" "You got extra {1} key for killing!"
+	}
+	"extra case"
+	{
+		"#format" "{1:s}"
+		"hu" "Kaptál egy extra {1} ládát az ölésért!"
+		"en" "You got extra {1} case for killing!"
+	}
+	
+	
+	
+	
+	
+	"kpo challenges"
+	{
+		"hu" "Kő papír olló kihívások"
+		"en" "Rock Paper Scrissors challenges"
+	}
+	
+	"case animation"
+	{
+		"hu" "Láda animáció"
+		"en" "Case animation"
+	}
+	"case sound"
+	{
+		"hu" "Láda hangeffektek"
+		"en" "Case sound effects"
+	}
+	
+	"off"
+	{
+		"hu" "[Kikapcsolva]"
+		"en" "[Off]"
+	}
+	
+	"on"
+	{
+		"hu" "[Bekapcsolva]"
+		"en" "[On]"
+	}
+	
+	
+	"exit"
+	{
+		"hu" "Kilépés"
+		"en" "Exit"
+	}
+	
+	"back"
+	{
+		"hu" "Vissza"
+		"en" "Back"
+	}
+	
+	"case menu"
+	{
+		"hu" "Láda menü"
+		"en" "Case menu"
+	}
+	
+	"market"
+	{
+		"hu" "Market/Shop/Trade"
+		"en" "Market/Shop/Trade"
+	}
+	
+	"quests"
+	{
+		"hu" "Küldetések"
+		"en" "Quests"
+	}
+	
+	"gambling"
+	{
+		"hu" "Szerencsejátékok"
+		"en" "Gambling"
+	}
+	
+	"settings"
+	{
+		"hu" "Beállítások menü"
+		"en" "Settings"
+	}
+	
+	"stats"
+	{
+		"hu" "Statisztikák"
+		"en" "Statistics"
+	}
+	
+	"version"
+	{
+		"hu" "Verzió"
+		"en" "Version"
+	}
+	
+	"piac"
+	{
+		"hu" "Piac"
+		"en" "Market"
+	}
+	
+	"piac rend"
+	{
+		"hu" "Piac rendezése"
+		"en" "Sort market"
+	}
+	
+	"blues"
+	{
+		"hu" "Kinyitott kék skinek:"
+		"en" "Opened blue skins:"
+	}
+	"purples"
+	{
+		"hu" "Kinyitott lila skinek:"
+		"en" "Opened purple skins:"
+	}
+	"pinks"
+	{
+		"hu" "Kinyitott rózsaszín skinek:"
+		"en" "Opened pink skins:"
+	}
+	"reds"
+	{
+		"hu" "Kinyitott piros skinek:"
+		"en" "Opened red skins:"
+	}
+	"customs"
+	{
+		"hu" "Kinyitott egyedi skinek:"
+		"en" "Opened custom skins:"
+	}
+	"knifes"
+	{
+		"hu" "Kinyitott kések:"
+		"en" "Opened knifes:"
+	}
+	"gloves"
+	{
+		"hu" "Kinyitott kesztyűk:"
+		"en" "Opened gloves:"
+	}
+	"cases opened"
+	{
+		"hu" "Kinyitott ládák:"
+		"en" "Opened cases:"
+	}
+	"all coins"
+	{
+		"#format" "{1:s}"
+		"hu" "Megszerzett {1}:"
+		"en" "Earned coins {1}:"
+	}
+	
+	
+	"daily free"
+	{
+		"hu" "Napi ingyenes ládanyitás"
+		"en" "Daily free case opening"
+	}
+	"open case"
+	{
+		"hu" "Ládanyitás"
+		"en" "Case opening"
+	}
+	"inventory"
+	{
+		"hu" "Raktár"
+		"en" "Inventory"
+	}
+	
+	
+	"send"
+	{
+		"hu" "Tárgyak átküldése"
+		"en" "Gift skins"
+	}
+	"quicksell"
+	{
+		"hu" "Gyors eladás"
+		"en" "Quicksell"
+	}
+	"shop"
+	{
+		"hu" "Bolt"
+		"en" "Shop"
+	}
+	
+	"blue_s"
+	{
+		"hu" "[K]"
+		"en" "[B]"
+	}
+	"purple_s"
+	{
+		"hu" "[L]"
+		"en" "[Pu]"
+	}
+	"pink_s"
+	{
+		"hu" "[R]"
+		"en" "[Pi]"
+	}
+	"red_s"
+	{
+		"hu" "[P]"
+		"en" "[R]"
+	}
+	"custom_s"
+	{
+		"hu" "[E]"
+		"en" "[C]"
+	}
+	"gold_s"
+	{
+		"hu" "[G]"
+		"en" "[G]"
+	}
+	
+	"uniq"
+	{
+		"hu" "Különleges"
+		"en" "Unique"
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"blue_l"
+	{
+		"hu" "Kék"
+		"en" "Blue"
+	}
+	"purple_l"
+	{
+		"hu" "Lila"
+		"en" "Puple"
+	}
+	"pink_l"
+	{
+		"hu" "Rózsaszín"
+		"en" "Pink"
+	}
+	"red_l"
+	{
+		"hu" "Piros"
+		"en" "Red"
+	}
+	"custom_l"
+	{
+		"hu" "Egyedi"
+		"en" "Custom"
+	}
+	"gold_l"
+	{
+		"hu" "Különleges"
+		"en" "Unique"
+	}
+	"knife_l"
+	{
+		"hu" "Kés"
+		"en" "Knife"
+	}
+	"gloves_l"
+	{
+		"hu" "Kesztyű"
+		"en" "Glove"
+	}
+	
+	
+	
+	"blue_skins"
+	{
+		"hu" "Kék skinek"
+		"en" "Blue skins"
+	}
+	"purple_skins"
+	{
+		"hu" "Lila skinek"
+		"en" "Purple skins"
+	}
+	"pink_skins"
+	{
+		"hu" "Rózsaszín skinek"
+		"en" "Pink skins"
+	}
+	"red_skins"
+	{
+		"hu" "Piros skinek"
+		"en" "Red skins"
+	}
+	"custom_skins"
+	{
+		"hu" "Egyedi skinek"
+		"en" "Custom skins"
+	}
+	
+	"can not be sold"
+	{
+		"hu" "Ez a skin egyelőre még nem eladható!!!!"
+		"en" "This skin can not be sold right now!!!"
+	}
+	
+	
+	"confirm sell"
+	{
+		"#format" "{1:s},{2:s},{3:.2f}"
+		"hu" "Biztos eladod a skint ennyiért:{1} {2}? {3}\% le lesz vonva adóként!"
+		"en" "Are you sure you want to sell this skin for:{1} {2}? {3}\% will be gone by taxes!"
+	}
+	
+	
+	"case"
+	{
+		"hu" "Láda"
+		"en" "Case"
+	}
+	"key"
+	{
+		"hu" "Kulcs"
+		"en" "Key"
+	}
+	"skin"
+	{
+		"hu" "Skin"
+		"en" "Skin"
+	}
+	
+	"trade"
+	{
+		"hu" "Tárgyak cserélése"
+		"en" "Trade items"
+	}
+	"trade send"
+	{
+		"hu" "Figyelem!!! 5 másodperc múlva megtörténik a csere."
+		"en" "Warning!!! 5 seconds and the items will be traded."
+	}
+	"trade expired"
+	{
+		"hu" "A csere kérelem lejárt!"
+		"en" "The trade invite expired!"
+	}
+	"got invite"
+	{
+		"#format" "{1:s}"
+		"hu" "{1} meghívott téged cserére. Elfogadod?"
+		"en" "{1} sent you a trade invite. Do you accept?"
+	}
+	"trade partner"
+	{
+		"#format" "{1:s}"
+		"hu" "Vele cserélsz éppen: {1}"
+		"en" "You currently trading with: {1}"
+	}
+	"trade coin client"
+	{
+		"#format" "{1:s}"
+		"hu" "Általad felrakott összeg: {1}"
+		"en" "You will give this amount of coin: {1}"
+	}
+	"trade coin target"
+	{
+		"#format" "{1:s}"
+		"hu" "A partnered által felrakott összeget: {1}"
+		"en" "Your partner will give this amount of coin: {1}"
+	}
+	"trade item client"
+	{
+		"hu" "Általad cserére kínált tárgyak."
+		"en" "Items you want to trade."
+	}
+	"trade item add"
+	{
+		"hu" "Új tárgy hozzáadása."
+		"en" "Add new item."
+	}
+	"trade item remove"
+	{
+		"hu" "Egy tárgy levétele a listáról."
+		"en" "Remove an item from the list."
+	}
+	"trade item target"
+	{
+		"hu" "A partnered által cserére kínált tárgyak."
+		"en" "Items your partner want to trade."
+	}
+	"trade accept"
+	{
+		"hu" "Csere elfogadása."
+		"en" "Accept trade."
+	}
+	"trade cancel accept"
+	{
+		"hu" "Csere visszavonása."
+		"en" "Cancel trade."
+	}
+	"trade cancel"
+	{
+		"hu" "Csere elutasítása."
+		"en" "Decline trade."
+	}
+	"trade accepted"
+	{
+		"hu" "A partnered elfogadta a cserét."
+		"en" "Your partner accepted the trade."
+	}
+	"trade cancelled"
+	{
+		"hu" "A partnered visszavonta a cserét."
+		"en" "Your partner cancelled the trade."
+	}
+	"trade changed"
+	{
+		"hu" "FIGYELEM!!! A partnered változtatott valamit a cserében!!! Használd a !trade parancsot, hogy frissüljön a menü!!"
+		"en" "WARNING!!! Your partner changed something in the trade!!! Use the !trade command to refresh the menü!!"
+	}	
+	"trade coin chat"
+	{
+		"hu" "Írd le az összeget, amit szeretnél adni cserében!"
+		"en" "Write the amount that you want to trade!"
+	}
+	
+	"trade error"
+	{
+		"hu" "Hiba! Nem használhatod miközben cserélsz!"
+		"en" "Error! Can't use that while you are trading!"
+	}
+	
+	"trade max"
+	{
+		"hu" "Maximum 100 tárgyat lehet átadni egyszerre!"
+		"en" "Maximum items that can be traded is 100!"
+	}
+	
+	"trade error already in trade"
+	{
+		"hu" "{darkred} Hiba! A játékos már cserél valakivel!"
+		"en" "{darkred} Error! The player already trading with someone!"
+	}
+	
+	
+	
+	"skin change stattrak on"
+	{
+		"hu" "Fegyver stattrakká tétele"
+		"en" "Change weapon to stattrak"
+	}
+	
+	"skin change stattrak off"
+	{
+		"hu" "Fegyver stattrak levétele"
+		"en" "Change weapon to non stattrak"
+	}
+	
+	"skin change float"
+	{
+		"hu" "Kopottság újrasorsolása"
+		"en" "Randomize weapon float"
+	}
+	"skin change seed"
+	{
+		"hu" "Seed újrasorsolása"
+		"en" "Randomize seed"
+	}
+	"skin change nametag"
+	{
+		"hu" "Fegyver nevének módosítása"
+		"en" "Change weapon nametag"
+	}
+	
+	"referal"
+	{
+		"hu" "Meghívó rendszer"
+		"en" "Referal system"
+	}
+	"referal code"
+	{
+		"hu" "A meghívó kódod:"
+		"en" "Your referal code:"
+	}
+	"referal invite"
+	{
+		"hu" "Még nem használtál meghívó kódot."
+		"en" "You didn't used any invite code."
+	}
+	"referal already invited"
+	{
+		"hu" "Már használtál kódot."
+		"en" "You already used an invite code."
+	}
+	"referal use code"
+	{
+		"hu" "Használd egy barátod kódját, hogy extra jutalmakat kapjatok."
+		"en" "Use one of your friends code, and get extra items for both of you."
+	}
+	"referal chat message"
+	{
+		"hu" "Írd le a chatre a barátod kódját a jutalmakért"
+		"en" "Type your friend's code for your price."
+	}
+	"referal error"
+	{
+		"hu" "Hiba! A kód nem található."
+		"en" "Error! The code couldn't be found."
+	}
+	"referal price"
+	{
+		"#format" "{1:s},{2:s}"
+		"hu" "A meghívóért kaptál {1} {2}-t."
+		"en" "You got {1} {2}(s) for the invite."
+	}
+	"referal invited by"
+	{
+		"hu" "A meghívód neve:"
+		"en" "You got invited by:"
+	}
+	
+	"referal invited counter"
+	{
+		"hu" "Általad meghívott játékosok:"
+		"en" "You invited this many player:"
+	}	
+	"tradeup chance"
+	{
+		"hu" "Mennyi legyen az esélyed a nyerésre? Kisebb esély, nagyobb nyereség."
+		"en" "How much chance do you want to win? Smaller the chance, bigger the price."
+	}
+}
